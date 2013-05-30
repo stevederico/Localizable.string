@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+
+
+  Created by Steve Derico on 5/24/13.
+  Copyright (c) 2013 Bixby Apps. All rights reserved.
+*/
+
+
+ 
+/* Basics */
+"OK" = "Okay";
+"NO" = "Nee, bedankt";
+"CLOSE" = "Sluiten";
+"SETTINGS" = "Instellingen";
+"ANALYTICS" = "Anonieme Statistieken";
+"RATE"="Rente op de App Store";
+"RESTORE"= "Restore In-App Aankopen";
+"FEEDBACK" ="Feedback verzenden";
+"WELCOME-TITLE" = "Welkom";

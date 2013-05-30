@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+
+  Created by Steve Derico on 5/24/13.
+  Copyright (c) 2013 Bixby Apps. All rights reserved.
+*/
+
+
+ 
+/* Basics */
+"OK" = "좋아요";
+"NO" = "더 감사하지";
+"CLOSE" = "가까운";
+"SETTINGS" = "설정";
+"ANALYTICS" = "익명 분석";
+"RATE"="앱 스토어에 속도";
+"RESTORE"= "인 - 앱 구매를 복원";
+"FEEDBACK" ="의견 보내기";
+"WELCOME-TITLE" = "환영";

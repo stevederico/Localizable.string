@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+
+  Created by Steve Derico on 5/24/13.
+  Copyright (c) 2013 Bixby Apps. All rights reserved.
+*/
+
+
+
+
+
+/* Basics */
+"OK" = "ถูก";
+"NO" = "ไม่ขอบคุณ";
+"CLOSE" = "ปิด";
+"SETTINGS" = "การตั้งค่า";
+"ANALYTICS" = "สถิติ ที่ไม่เปิดเผยตัว";
+"RATE"="อัตราที่ App Store";
+"RESTORE"= "คืนค่าในการซื้อ App";
+"FEEDBACK" ="ส่งข้อเสนอแนะ";
+"WELCOME-TITLE" = "ยินดีต้อนรับ";

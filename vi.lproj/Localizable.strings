@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+
+  Created by Steve Derico on 5/24/13.
+  Copyright (c) 2013 Bixby Apps. All rights reserved.
+*/
+
+
+ 
+/* Basics */
+"OK" = "Sao";
+"NO" = "Không, cảm ơn";
+"CLOSE" = "Đóng";
+"SETTINGS" = "Cài đặt";
+"ANALYTICS" = "Vô danh Analytics";
+"RATE"="Tỷ lệ trên App Store";
+"RESTORE"= "Khôi phục mua trong App";
+"FEEDBACK" ="Gửi phản hồi";
+"WELCOME-TITLE" = "Chào mừng";

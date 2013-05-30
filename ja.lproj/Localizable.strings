@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+
+  Created by Steve Derico on 5/24/13.
+  Copyright (c) 2013 Bixby Apps. All rights reserved.
+*/
+
+
+ 
+/* Basics */
+"OK" = "オーケー";
+"NO" = "いいえおかげん";
+"CLOSE" = "クローズ";
+"SETTINGS" = "設定";
+"ANALYTICS" = "匿名解析";
+"RATE"="App Storeでのレート";
+"RESTORE"= "アプリ内購入を復元";
+"FEEDBACK" ="フィードバックを送信";
+"WELCOME-TITLE" = "歓迎";
